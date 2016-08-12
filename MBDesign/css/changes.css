@@ -1,0 +1,53 @@
+.navbar-inverse .navbar-nav > li > a {
+  font-size:15px;
+  text-transform: uppercase;
+  font-weight: 650;
+  color:#fff;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+  background-color:rgb(32, 28, 27);
+}
+.jumbotron {
+background-image: url("../images/main22.jpg");
+background-size: cover;  
+background-position: center;
+height: 100vh; 
+}
+.container {
+  color:#fff;
+}
+.container h1 {
+  margin-top:90px;
+}
+.gallery p {
+  color:black;
+  font-size:25px;
+}
+#explore {
+  height:auto;
+  width:auto;
+  margin-top:500px;
+  padding:25px 80px;
+  background-color:rgb(5, 5, 5);
+  text-decoration:none;
+  border-radius:40px;
+  transition: 0.5s ease;
+  font-size:13px;
+  text-transform: uppercase;
+  color:white;
+  margin:0 auto;
+}
+#explore:hover {
+  background-color:transparent;
+  border: 1.5px solid #fff;
+}
+.button {
+  margin-top:200px;
+  margin-bottom:200px;
+}
+.col-lg-12 .page-header {
+  color:black;
+}
+.img-responsive {
+  height:400px;
+}
